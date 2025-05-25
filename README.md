@@ -3,6 +3,8 @@
 A lightweight and modern personal portfolio template built with HTML, CSS.  
 This project is ideal for freelancers, developers, and designers looking to showcase their work in a clean and minimal layout.
 
+![Portfolio Preview](Screenshot%20(31).png)
+
 🚀 **Live Demo:**  
 [https://parsadgh.github.io/avada.portfolio/](https://parsadgh.github.io/avada.portfolio/)
 
